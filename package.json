@@ -1,0 +1,19 @@
+{
+  "name": "conversion-of-units",
+  "version": "1.0.0",
+  "description": "A set of functions for performing conversion between different units",
+  "keywords": [
+    "unit converter",
+    "temperature"
+  ],
+  "homepage": "https://github.com/andresroberto/conversion-of-units#readme",
+  "bugs": "https://github.com/andresroberto/conversion-of-units/issues",
+  "license": "MIT",
+  "author": "Andrés Rojas <andresroberto10@gmail.com> (https://github.com/andresroberto)",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
