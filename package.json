@@ -15,5 +15,6 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "repository": "andresroberto/converstion-of-units"
 }
